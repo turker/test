@@ -1,5 +1,5 @@
 From ubuntu
-RUN echo hello world
+RU echo hello world
 
 
 
