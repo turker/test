@@ -1,4 +1,4 @@
-From ubuntu
+FROM ubuntu
 RUN echo hello world
 
 
